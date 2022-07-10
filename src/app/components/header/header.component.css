@@ -1,0 +1,30 @@
+i {
+    
+    color: #fff;
+    fill: #0a0a0a;
+    font-size: 25px;
+    border-radius: 50px; 
+}
+
+a {
+   border: 2px solid #fff;
+   background-color: #0a0a0a;
+   border-radius: 50px; 
+   height: 40px;
+   width: 40px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.header {
+    background-color: #FC4444;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+span {
+    color: #fff;
+}
