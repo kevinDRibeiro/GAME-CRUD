@@ -7,7 +7,6 @@ import { HomeComponent } from './view/home/home.component';
 import { LoginComponent } from './view/login/login.component';
 import { RegistrationComponent } from './view/registration/registration.component';
 import { DetailsComponent } from './view/details/details.component';
-import { NavComponent } from './components/nav/nav.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
@@ -21,7 +20,6 @@ import {MatToolbarModule} from '@angular/material/toolbar';
     LoginComponent,
     RegistrationComponent,
     DetailsComponent,
-    NavComponent,
     HeaderComponent,
     FooterComponent
   ],
