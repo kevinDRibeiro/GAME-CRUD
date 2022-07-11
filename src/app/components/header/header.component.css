@@ -7,7 +7,9 @@ i {
 }
 
 a {
-    text-decoration: none;    
+    text-decoration: none;
+}
+.login {
     border: 2px solid #fff;
     background-color: #0a0a0a;
     border-radius: 50px; 

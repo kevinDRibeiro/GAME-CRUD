@@ -1,0 +1,31 @@
+#carouselExampleControls {
+    max-width: 1200px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: #fff;
+    border: 2px solid #FC4444;
+}
+
+.imgDetails {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+span {
+    color: #fff;
+}
+
+.badge {
+    color: #fff;
+    width: 40px;
+    border-radius: 10px;
+}
+
+.gameCard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 250px;
+}
